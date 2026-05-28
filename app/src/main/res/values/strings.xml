@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Examen2LAG</string>
+    <string name="welcome_message">Bienvenid@</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="login_success">Sesión iniciada correctamente</string>
+    <string name="login_error">Usuario o contraseña incorrectos</string>
 </resources>
