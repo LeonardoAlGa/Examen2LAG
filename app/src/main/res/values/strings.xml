@@ -5,5 +5,10 @@
     <string name="hint_password">Contraseña</string>
     <string name="btn_login">Iniciar Sesión</string>
     <string name="login_success">Sesión iniciada correctamente</string>
-    <string name="login_error">Usuario o contraseña incorrectos</string>
+    <string name="login_error">Por favor, complete todos los campos</string>
+
+    <!-- Profile Activity -->
+    <string name="profile_title">Perfil de Usuario</string>
+    <string name="label_username">Usuario:</string>
+    <string name="btn_logout">Cerrar Sesión</string>
 </resources>
